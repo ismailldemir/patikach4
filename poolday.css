@@ -1,0 +1,63 @@
+body{
+    background-color:rgb(212, 184, 148);
+    margin: 2;
+   
+}
+h4{
+    border-style:none;
+    background-color: brown;
+    color: rgb(219, 214, 214);
+    border-radius: 10px;
+    padding:1px;
+    width:300px;
+    height:20px;
+    
+
+}
+
+img{
+    width:500px
+}
+
+section{
+    position: relative; 
+    left: 600px; 
+    width: fit-content;
+    margin-top:-400px;
+    
+}
+
+footer{
+float:right;
+margin-right: 500px;
+margin-top:20px;
+color:brown;
+font-size: xx-large;
+
+
+}
+
+.teco{
+    color:brown;
+    text-decoration: underline;
+}
+
+.eat{
+    display:inline-flex;
+    margin-top: 25px;
+    
+}
+
+.hazır{
+    margin-left:10px;
+}
+
+.kişi{
+    margin-left: 10px;
+}
+
+.pişir{
+    margin-left:10px;
+}
+
+/* edit by Emin Hoca  */
